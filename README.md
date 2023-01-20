@@ -43,6 +43,6 @@ def circulate():
 ``` 
 
 ## Output:
-![](./nvariable.png)
+![](./nvari.png)
 ## Result:
 Thus the circulate the values of n variables succeesfully executed
